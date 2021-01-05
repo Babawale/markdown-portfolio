@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+Some of the things I like include:
+1. Sport
+    * Football
+    * Formula 1
+    * Tennis
+1. Reading
+1. Meditating on the Scriptures

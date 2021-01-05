@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I have a pretty good handle on the following platforms, skills, and programming languages: _Microsoft Azure_, *Google Cloud Platform*, *Amazon AWS*, _Python_, _DevOps_, and _Data Science_. __This is not an exhaustive list__. 

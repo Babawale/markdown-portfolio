@@ -1,0 +1,1 @@
+I have a pretty good handle on the following platforms, skills, and programming languages: _Microsoft Azure_, *Google Cloud Platform*, *Amazon AWS*, _Python_, _DevOps_, and _Data Science_. __This is not an exhaustive list__. 
